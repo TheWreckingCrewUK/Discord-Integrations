@@ -1,0 +1,16 @@
+<?php
+
+return (object) array(
+	/** PUSH NOTIFICATIONS TO DISCORD **/
+	'DISCORD_WEBHOOK_URL_MODUPDATE' => '',
+	'DISCORD_WEBHOOK_URL_MEDIA' => '',
+	'DISCORD_WEBHOOK_URL_TWITCH' => '',
+	/** SCRAPING ICLANS **/
+	'ICLANS_USER_ID' => '',
+	'ICLANS_USER_PASSWORD' => '',
+	/** DISCORD STYLING **/
+	'DISCORD_EMBED_COLOUR' => '16737792',
+	'DISCORD_ICON_URL' => 'http://i.imgur.com/kpgViQ9.png'
+);
+
+?>
